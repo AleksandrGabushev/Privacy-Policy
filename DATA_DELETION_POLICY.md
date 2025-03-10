@@ -37,5 +37,5 @@ The email will **automatically include your UserID** (a unique identifier for yo
 
 For questions, email [aleksandr_gabushev@proton.me](mailto:aleksandr_gabushev@proton.me).
 
-For data practices, see our [Privacy Policy](https://dd-digitaldiary.co.in/privacy-policy.html).
+For data practices, see our [Privacy Policy](https://github.com/AleksandrGabushev/Privacy-Policy/blob/main/privacy_policy.md).
 
