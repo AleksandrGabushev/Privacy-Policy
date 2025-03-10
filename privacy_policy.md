@@ -4,7 +4,7 @@
 
 This Privacy Policy describes how we handle your information when you use DD-DigitalDiary ("the Service"). By using the Service, you agree to these terms.
 
-To request data deletion, follow the steps in our [Data Deletion Policy](https://dd-digitaldiary.co.in/data-deletion-policy.html).
+To request data deletion, follow the steps in our [Data Deletion Policy](https://github.com/AleksandrGabushev/Privacy-Policy/blob/main/DATA_DELETION_POLICY.md).
 
 ## Interpretation and Definitions
 
@@ -43,7 +43,7 @@ Subscriptions are managed by third parties (e.g., Apple App Store/Google Play St
 
 ### Data Deletion Requests
 
-To delete data tied to your device, email us via the app’s **Contact Us** feature. The email will automatically include your **UserID**, which we use to locate your data. **We cannot process requests without a UserID.** For details, see our [Data Deletion Policy](https://dd-digitaldiary.co.in/data-deletion-policy.html).
+To delete data tied to your device, email us via the app’s **Contact Us** feature. The email will automatically include your **UserID**, which we use to locate your data. **We cannot process requests without a UserID.** For details, see our [Data Deletion Policy](https://github.com/AleksandrGabushev/Privacy-Policy/blob/main/DATA_DELETION_POLICY.md).
 
 ## Your Privacy Rights
 
@@ -83,4 +83,4 @@ For data requests or questions: [contact us here](mailto:aleksandr_gabushev@prot
 
 This policy is governed by Indian law. Disputes will be resolved in Delhi, India.
 
-For data deletion instructions, see our [Data Deletion Policy](https://dd-digitaldiary.co.in/data-deletion-policy.html).
+For data deletion instructions, see our [Data Deletion Policy](https://github.com/AleksandrGabushev/Privacy-Policy/blob/main/DATA_DELETION_POLICY.md).
