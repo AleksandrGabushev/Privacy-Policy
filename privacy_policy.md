@@ -77,7 +77,7 @@ We’ll notify you of major changes via email or in-app alerts. The "Last update
 
 ## Contact
 
-For data requests or questions: [contact us here](mailto:aleksandr_gabushev@proton.me).
+For data requests or questions: <a href="mailto:aleksandr_gabushev@proton.me">contact us here</a>.
 
 ## Governing Law
 
