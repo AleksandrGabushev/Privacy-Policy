@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Last updated: March 6, 2025**
+**Last updated: March 10, 2025**
 
 This Privacy Policy describes how we handle your information when you use DD-DigitalDiary ("the Service"). By using the Service, you agree to these terms.
 
@@ -77,7 +77,7 @@ We’ll notify you of major changes via email or in-app alerts. The "Last update
 
 ## Contact
 
-For data requests or questions: <a href="mailto:aleksandr_gabushev@proton.me">contact us here</a>.
+For data requests or questions, contact us at aleksandr_gabushev@proton.me.  
 
 ## Governing Law
 
