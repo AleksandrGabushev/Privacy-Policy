@@ -2,7 +2,7 @@
 
 **Last updated: March 6, 2025**
 
-We are committed to protecting your privacy. Below, we outline how to request deletion of data tied to your device. For details on what data we collect, see our [Privacy Policy](https://dd-digitaldiary.co.in/privacy-policy.html).
+We are committed to protecting your privacy. Below, we outline how to request deletion of data tied to your device. For details on what data we collect, see our [Privacy Policy](https://github.com/AleksandrGabushev/Privacy-Policy/blob/main/privacy_policy.md).
 
 ## How to Request Data Deletion
 
